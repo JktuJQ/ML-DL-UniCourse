@@ -25,3 +25,9 @@ Extraction of frames from video and classifier built on top of YOLO do that easi
 I solved the task of semantic segmentation of the image with circles.
 This [solution](segmentation.ipynb) is rather simple, but that is almost always the case with YOLO -
 it makes everything extremely simple!
+
+## Detection
+
+Detection task that I approached is harder due to the nature of dataset -
+I needed to find seagulls on images that are quite blurred and small.
+However, YOLO once again does its magic - the solution is very small yet perfomant.
