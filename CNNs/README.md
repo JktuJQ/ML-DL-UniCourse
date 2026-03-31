@@ -2,12 +2,12 @@
 
 This folder contains my work on **Convolution Neural Networks**.
 
-# MNIST
+## MNIST
 
 MNIST is the most classical task that is given to learn about convolutions.
 My [solution](mnist.ipynb) of this task with modified LeNet performs on the level of 98% accuracy.
 
-# Classification
+## Classification
 
 I tried to use CNNs in the task of classification. However, I decided to use them in different contexts.
 
@@ -19,3 +19,9 @@ This [file](multiclass_classification.ipynb) solves multiclass classification of
 This [file](video_classification.ipynb) tries to solve multilabel classification of video while not using
 models that work with sequences - just with CNN.
 Extraction of frames from video and classifier built on top of YOLO do that easily.
+
+## Segmentation
+
+I solved the task of semantic segmentation of the image with circles.
+This [solution](segmentation.ipynb) is rather simple, but that is almost always the case with YOLO -
+it makes everything extremely simple!
