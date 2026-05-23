@@ -23,5 +23,5 @@ and finding more ways to improve metrics in contests.
 
 It covers several big spheres of neural networks -
 [tensors and backpropagation](Tensors), [dense neural networks](DenseNN), [CNNs (primarily in Computer Vision)](CNNs),
-[generative models (GAN and Diffusion)](GenerativeModels)
+[generative models (GAN and Diffusion)](GenerativeModels), [RNNs](RNNs) and [transformers](Transformers).
 You can find more specific information in the READMEs of respectable folders.
